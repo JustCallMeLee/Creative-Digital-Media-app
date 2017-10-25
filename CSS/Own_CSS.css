@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+img.CDM_Home {
+	max-width: 100%;
+	max-height: 70%;
+}
+
+
+
+ a.active{
+	 background-color: #EA2868 ;
+       text-decoration: underline ; 
+    }
